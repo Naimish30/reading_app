@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326550098202",
+    "project_id": "pdf-reader-48729",
+    "storage_bucket": "pdf-reader-48729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326550098202:android:a6ed0f195b93d820021ca3",
+        "android_client_info": {
+          "package_name": "com.example.reading_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YvZKxZR0hO2vfX6ATn7bSwMruHmEBpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
