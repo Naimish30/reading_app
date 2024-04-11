@@ -1,16 +1,5 @@
-# reading_app
 
-A new Flutter project.
+# Your own PDF viewer and Saver
 
-## Getting Started
+This project was developed using Flutter and Firebase to store the pdf in your database and to read the pdf stored by you in the database, in short, it is your own pdf viewer.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
